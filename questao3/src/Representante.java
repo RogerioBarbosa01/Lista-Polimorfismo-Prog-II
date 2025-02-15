@@ -1,3 +1,6 @@
+// implementa a interface animal
+// cria um animal e classifica sua espécie
+
 public class Representante implements Animal {
     private String nomeEspecie, nomeAnimal;
     

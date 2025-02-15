@@ -1,3 +1,5 @@
+// conta quantos animais tem para a espécie guardada/filtrada
+
 public class Resultado {
 	private String nomeEspecie; // nome da especie
 	private int quantidade; // quantidade de animais da especie
